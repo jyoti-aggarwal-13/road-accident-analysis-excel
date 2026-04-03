@@ -31,7 +31,7 @@ To analyze accident data and identify patterns that can help improve road safety
 ## 📂 Dataset / File Access
 Due to file size limitations on GitHub, the Excel dashboard file is hosted externally:
 
-👉 **[Download Excel Dashboard]((https://docs.google.com/spreadsheets/d/1nCuYBqq15sBXM0hXR-bG5WQWGXuU7Wj4tmRP6UPAJsk/edit?usp=sharing))**
+👉 **[Download Excel Dashboard](https://docs.google.com/spreadsheets/d/1nCuYBqq15sBXM0hXR-bG5WQWGXuU7Wj4tmRP6UPAJsk/edit?usp=sharing)**
 
 > Note: Please ensure you have access permissions enabled ("Anyone with the link can view") to open the file.
 
