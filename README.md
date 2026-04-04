@@ -33,7 +33,6 @@ Due to file size limitations on GitHub, the Excel dashboard file is hosted exter
 
 👉 **[Download Excel Dashboard](https://docs.google.com/spreadsheets/d/1nCuYBqq15sBXM0hXR-bG5WQWGXuU7Wj4tmRP6UPAJsk/edit?usp=sharing)**
 
-> Note: Please ensure you have access permissions enabled ("Anyone with the link can view") to open the file.
 
 ## 💡 Business Insights
 - Focus on improving safety measures for car drivers
